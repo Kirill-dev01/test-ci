@@ -1,0 +1,1 @@
+[![Build and Test](https://github.com/Kirill-dev01/test-ci/actions/workflows/test.yml/badge.svg)](https://github.com/Kirill-dev01/test-ci/actions/workflows/test.yml)
